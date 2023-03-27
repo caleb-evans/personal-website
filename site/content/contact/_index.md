@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "1018 5th Avenue Abilene, TX 79602"
+    text: "1018 5th Avenue Abilene,           TX 79602"
   - heading: Working hours
     text: "Monday – Thursday: 8AM – 5PM"
 ---
