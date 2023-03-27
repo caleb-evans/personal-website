@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "1018 5th Avenue Abilene, TX 79602"
   - heading: Working hours
-    text: "Monday – Thursday: 8AM – 5PM
+    text: "Monday – Thursday: 8AM – 5PM"
 ---
 
 I’d love to get in touch with you and hear about any potential opportunities and comments. 
