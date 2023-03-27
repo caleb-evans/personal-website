@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\bin\Debug\net6.0\personal-website.exe
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\bin\Debug\net6.0\personal-website.deps.json
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\bin\Debug\net6.0\personal-website.runtimeconfig.json
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\bin\Debug\net6.0\personal-website.dll
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\bin\Debug\net6.0\personal-website.pdb
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\personal-website.vbproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\personal-website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\personal-website.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\personal-website.AssemblyInfo.vb
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\personal-website.vbproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\personal-website.dll
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\refint\personal-website.dll
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\personal-website.pdb
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\personal-website.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Documents\GitHub\personal-website\personal-website\obj\Debug\net6.0\ref\personal-website.dll
