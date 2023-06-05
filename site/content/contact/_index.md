@@ -1,9 +1,9 @@
 ---
-title: "Try"
-logo: "/img/logo.svg"
+title: Try
+logo: img/caleblogo.png
 contact_entries:
   - heading: Location
-    text: "1018 5th Avenue Abilene, TX 79602"
+    text: 1018 5th Avenue Abilene, TX 79602
   - heading: Working hours
     text: "Monday – Thursday: 8AM – 5PM"
 ---
