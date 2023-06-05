@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Bringing art to life"
+subtitle: From Theater to Computer Science creativity comes first
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
