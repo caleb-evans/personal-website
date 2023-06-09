@@ -1,6 +1,6 @@
 ---
 title: Try
-logo: img/caleblogo.png
+logo: img/bringing-art-to-life.png
 contact_entries:
   - heading: Location
     text: 1018 5th Avenue Abilene, TX 79602
