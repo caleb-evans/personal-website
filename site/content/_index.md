@@ -1,15 +1,15 @@
 ---
 title: Bringing art to life
 subtitle: From Theater to Computer Science creativity comes first
-image: /img/home-jumbotron.jpg
+image: img/fullsizerender.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Who Am I?
+  text: A creative, an artist, a developer, a musician, a gamer, a project
+    manager, and a future entrepreneur. I'm many things but so are we all! I
+    yearn to explore the world and trying to make it a better place one smile at
+    a time
 intro:
-  heading: What we offers
+  heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
