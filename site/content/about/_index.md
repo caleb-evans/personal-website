@@ -1,5 +1,5 @@
 ---
-title: Contact Page
+title: About Page
 logo: img/bringing-art-to-life.png
 contact_entries:
   - heading: Location
